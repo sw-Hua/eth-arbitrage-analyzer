@@ -1,0 +1,1186 @@
+[
+  {
+    "txn_hash": "0x804eacc90d5a3c165b96344ddad0149e32df095d37597b17f2d678f44394e010",
+    "block_number": 17518743,
+    "gas_used": 150084,
+    "gas_price": 15352546136,
+    "shooter": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x3566164077f3e6d4fb27077c8cc156d5a2f788e51f1ba26a346f6550335efc56",
+    "block_number": 17518743,
+    "gas_used": 349189,
+    "gas_price": 15252546136,
+    "shooter": "0x6b75d8AF000000e20B7a7DDf000Ba900b4009A80",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x2985cab40e976e1b41d2862b5d387be1592e95857ac2922fe07fdb58875fb8a4",
+    "block_number": 17518743,
+    "gas_used": 147249,
+    "gas_price": 16140109216,
+    "shooter": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x2f0ed1572dbb9efd294f3e7beae89aae694e585dfba709f023b53a62ff04efcd",
+    "block_number": 17518743,
+    "gas_used": 127583,
+    "gas_price": 17850000000,
+    "shooter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x36967ee0bf9400f3e73867536d9df56ca43fd7cced66e93821a764f278f14a9a",
+    "block_number": 17518743,
+    "gas_used": 129927,
+    "gas_price": 16140109216,
+    "shooter": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x71aeb47473199277c0948930593cb0062ac2af5623aa126dd75534dff0dea141",
+    "block_number": 17518743,
+    "gas_used": 99012,
+    "gas_price": 22252546136,
+    "shooter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xcb341a944bc345ccc37d351636aaa4b53ab912728b86acd08d9870467c73dcd8",
+    "block_number": 17518743,
+    "gas_used": 333654,
+    "gas_price": 50322230093,
+    "shooter": "0x6b75d8AF000000e20B7a7DDf000Ba900b4009A80",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x950dcb99e203bb5a24ba2683aad28ce9c8d033fcbe634e08aeae766f9924a24c",
+    "block_number": 17518743,
+    "gas_used": 104226,
+    "gas_price": 30252546136,
+    "shooter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x52ae4d38dbd4524e700974b8d7b95569441928dc83fef2e2d1f73d3229cd3811",
+    "block_number": 17518743,
+    "gas_used": 46121,
+    "gas_price": 50000000000,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xfacfadc08a1e6f49f6edcc6f30a5f9656f6bb01581ac121cebc93eb214bf1dd5",
+    "block_number": 17518743,
+    "gas_used": 113395,
+    "gas_price": 23856628741,
+    "shooter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x5832842f52f30c5e7dbae2bf5f51aac38b2195edcd3319a6bf4128d1bbe37a5b",
+    "block_number": 17518743,
+    "gas_used": 59396,
+    "gas_price": 25852546136,
+    "shooter": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x85ea456aea97362639347a0e9523e1daa1a47bbf54f331911484188a0fa1d9ac",
+    "block_number": 17518743,
+    "gas_used": 51895,
+    "gas_price": 24188625282,
+    "shooter": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb05dfefb2a4fa43fe4aadd546cb64f176bd4c5dcd994eff95c799b2e90e17748",
+    "block_number": 17518743,
+    "gas_used": 341815,
+    "gas_price": 18252546136,
+    "shooter": "0xD8583E8b631d036941917091EFA8608078886351",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xf43af71fba0e17359c5ab8a6b7ea20bd84ea013a501d8896ae58bcc2d2acb4e3",
+    "block_number": 17518743,
+    "gas_used": 136647,
+    "gas_price": 18252546136,
+    "shooter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xccf59181d1f71b239d43f5899d0de25347680391de1de0e15d3ce81c228ff91d",
+    "block_number": 17518743,
+    "gas_used": 118066,
+    "gas_price": 18852546136,
+    "shooter": "0x32400084C286CF3E17e7B677ea9583e60a000324",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x3e1dcfc3aaf31bc1a5733fad0dca290e967a4ba98ca20d885b58c10595d3a480",
+    "block_number": 17518743,
+    "gas_used": 231524,
+    "gas_price": 16633237905,
+    "shooter": "0x37476750A31266557609212E9707895E06E36ca4",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x46dbd804e5486f778882efd02bd440c5559a1f3be9857c7137dde542cddb8650",
+    "block_number": 17518743,
+    "gas_used": 126023,
+    "gas_price": 15252546136,
+    "shooter": "0xA69babEF1cA67A37Ffaf7a485DfFF3382056e78C",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x40bb6d66936511a0cb5715156b5d78a5b9a7e6af3b04e99edf46228460fe5adc",
+    "block_number": 17518743,
+    "gas_used": 57926,
+    "gas_price": 18252546136,
+    "shooter": "0xc3CA38091061e3E5358A52d74730F16C60cA9c26",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb615b9abfb1540fd0c058f61f528bb9d0a786e5c5564b15be7ca474396b48989",
+    "block_number": 17518743,
+    "gas_used": 205188,
+    "gas_price": 15549502283,
+    "shooter": "0x2d2A7d56773ae7d5c7b9f1B57f7Be05039447B4D",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x4b21184f31bd7a0c2b8c329a0c469b0645178293793cb92a1876b0b9197bde12",
+    "block_number": 17518743,
+    "gas_used": 109003,
+    "gas_price": 15252546136,
+    "shooter": "0xA69babEF1cA67A37Ffaf7a485DfFF3382056e78C",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xf7796b7c2237071fe70466a655e6c981add76fb894b445cc3a6e0f7d547c9d02",
+    "block_number": 17518743,
+    "gas_used": 466003,
+    "gas_price": 15352546136,
+    "shooter": "0x253553366Da8546fC250F225fe3d25d0C782303b",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x791468ab3d7eb0b61dadec2a1874da6f59f0ecd16fb8e4d68c96edbd105bf313",
+    "block_number": 17518743,
+    "gas_used": 46597,
+    "gas_price": 18252546136,
+    "shooter": "0xeb81CEfa37e8B666aAD56313DFacEB1a5792196a",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb93adbfdc1e3c1cc64a36c48e637df107cd79f93f23e6889b2626cea7c40e1f2",
+    "block_number": 17518743,
+    "gas_used": 37789,
+    "gas_price": 21430597847,
+    "shooter": "0x80d4F13AcC30968fD6225b1Ea79f5779f09FEE60",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x84529995e3e04c177bb60faddb4a6bbad1ab81767b01a6765adac1c116f8fd10",
+    "block_number": 17518743,
+    "gas_used": 110327,
+    "gas_price": 15252546136,
+    "shooter": "0xA69babEF1cA67A37Ffaf7a485DfFF3382056e78C",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x807ab86bb0f7370b585c389f3f517c8b89d0345f78388a9c1bf6b145e3598f13",
+    "block_number": 17518743,
+    "gas_used": 46600,
+    "gas_price": 15560546136,
+    "shooter": "0x904F1B26ddBd7ed3Bc6b7A8a55ff22BeBa2279c3",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x12e74216c24b93348317c8f66adc0c7ef55516fc6040b26d493488e64bf949be",
+    "block_number": 17518743,
+    "gas_used": 46898,
+    "gas_price": 15352546136,
+    "shooter": "0x3352eB2fEbcA75E40aB8B028701473E2D7DE680A",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa20fc2c1b2a32c1cf273ff5ed4e9127d6f5daeaa69f8a210d83bffe4a4a63c7d",
+    "block_number": 17518743,
+    "gas_used": 163118,
+    "gas_price": 30252546136,
+    "shooter": "0xEf1c6E67703c7BD7107eed8303Fbe6EC2554BF6B",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x0603b66954fe86d636d35ea14d16a85e691cd9f44ff9f3b29a1c2f638a700149",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 22800000000,
+    "shooter": "0x3fdc42dd48792b76fE86D5A61780ec3965efb51D",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xe9d4528fe919795f70a7deb5f18c502ca3177cb399d72e59862a9ebea9ca2286",
+    "block_number": 17518743,
+    "gas_used": 152811,
+    "gas_price": 18852546136,
+    "shooter": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x15328121275f8ac680b1fe46356deee9737fc37b310a4bfb9044bce5a4918134",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 18252546136,
+    "shooter": "0x596E184991279AA74D6e336679950d8f0055f206",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xd9d0d01bfaa226469263127f0d7cdf49398f591411066bee75cb867e9489d2ce",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 18252546136,
+    "shooter": "0x6faAA96E0E290E82359D081Edff43041B953ca80",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xfd4dba395a03e81ceea044739ab2a2288a413a10264fe7c221d0c859bd160118",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 18252546136,
+    "shooter": "0x1E8021aa29B38146ad3cd99882Ca0C8e2a3c1ea9",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xfc53115104fd75916f70eb8f9f8ee2a8d7e3458c65cf78acb1a4e9fa2cb0a778",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 18252546136,
+    "shooter": "0x4F877681E8Aff332B9f1204D26a6A6B5F44BDdb6",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb5d5cd4474c057de93051a4dacfdf66d60b5c2e9af1432ae5672424c3184ae15",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 18252546136,
+    "shooter": "0xCD3c24eb7f8C8b1de896BEE1c228dF4FA46eac16",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb6f1e2747f2c67fc32bc3d5b966585e7f85270ea70daf3143d5785defb3368fc",
+    "block_number": 17518743,
+    "gas_used": 134721,
+    "gas_price": 18252546136,
+    "shooter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa10fa39020b64e83766699e94763f472a99b366d0610129f5aa3ec7896ae1948",
+    "block_number": 17518743,
+    "gas_used": 115831,
+    "gas_price": 17752546136,
+    "shooter": "0xae0Ee0A63A2cE6BaeEFFE56e7714FB4EFE48D419",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb5ec22a3c903372c5027c04e94d3d8c8649fdf65ccde3d866effe9258002078d",
+    "block_number": 17518743,
+    "gas_used": 46109,
+    "gas_price": 17452546136,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x0ad336534f9a83d4d624632c34f262be09959129801e2a044eae7e6c976fdd25",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 17261546136,
+    "shooter": "0x476354a7679F7195c280C762225F62D5dbDdc776",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x2719a7cad63dfa3af6ff6c35ca71e8233f288f9114a39f1e6e36f9aa4040160f",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 17261546136,
+    "shooter": "0x5770815B0c2a09A43C9E5AEcb7e2f3886075B605",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x3881f694952c794ae35c2361cdb3262880618e1b801e695cb3b4388cf85c54a1",
+    "block_number": 17518743,
+    "gas_used": 52008,
+    "gas_price": 17252546136,
+    "shooter": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x2921fc793c61fe8143330c710ec8286e4c53e8611de75be1db1759bf0968bbef",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 17252546136,
+    "shooter": "0xab2b86842123753A8cE42fEe9bEBDeFbCF77482B",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xd9c9fb879465d9279a7bfec6698449d6cc6bd746877d1e644eb0106cf4f8fbd9",
+    "block_number": 17518743,
+    "gas_used": 63209,
+    "gas_price": 17252546136,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x164ff85bff278c389bf81040ff0efc0d580cc1fbd36fe3b8395d55e6df8a787a",
+    "block_number": 17518743,
+    "gas_used": 155713,
+    "gas_price": 17252546136,
+    "shooter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb24d6d8b1770ca66c7916c7389b87388cfb7eae6388a15e4c14c782476784e4a",
+    "block_number": 17518743,
+    "gas_used": 118714,
+    "gas_price": 17252546136,
+    "shooter": "0xE7667Cb1cd8FE89AA38d7F20DCC50ee262cC9D12",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa63b1319c3eac7d32c594073dbca6c2fb2be894f2b4888b11148b7d10a3dd9da",
+    "block_number": 17518743,
+    "gas_used": 56722,
+    "gas_price": 17252546136,
+    "shooter": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x4eac9d55f254a7bf53edddbf1f4b7221ca33bfb2ffd5e5b112d4fddb10721f6e",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 17252546136,
+    "shooter": "0x67cD00DE2229A5C99f621e59B7aD3d3920785B88",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x4f161a7e4c428f8f60e7df5c8c887b18ddd0b6929e2d01c29376f58b210ac677",
+    "block_number": 17518743,
+    "gas_used": 63209,
+    "gas_price": 17252546136,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x2fde1f93e1cd82a62762040eca00b2a443abd32f3c83207886bf20bb9efc2fb2",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 17252546136,
+    "shooter": "0x2440a635623f570281742f20026E6F7933B010a3",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x923239bc48e94a48e626bf2c82ec579b41bb410019c85667c9c69d509601ae0e",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 17204046019,
+    "shooter": "0x4Dce05EE4A9046D21FD55c15656bD247E874b22B",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x697b33b7dc5df92466a257946e2499486bbd439624170d3d2b9cf90f8efb559d",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 16752546136,
+    "shooter": "0xE1bf914b7775CEa19144Ac7919916b73a1783249",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xd953d849a129a31729e8133640a7c40e8317be0bec799b9a84fe2bdfd86b0a7e",
+    "block_number": 17518743,
+    "gas_used": 34857,
+    "gas_price": 16708064539,
+    "shooter": "0x4a220E6096B25EADb88358cb44068A3248254675",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x8708c45164097cf5bda5e911c88cf48b83c37171bfc4c740edd4e0971ae89c38",
+    "block_number": 17518743,
+    "gas_used": 72312,
+    "gas_price": 16708064539,
+    "shooter": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x30ee63f5ba13681be786b4d4a5bb7631130a3e50a402343918241772a8ad8ccf",
+    "block_number": 17518743,
+    "gas_used": 63197,
+    "gas_price": 16708064539,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xbbdbd52121af5715f91692acac5a5d7c0afd6a8e7f762c961a5bfb384aa4cf16",
+    "block_number": 17518743,
+    "gas_used": 301322,
+    "gas_price": 16633237910,
+    "shooter": "0x6131B5fae19EA4f9D964eAc0408E4408b66337b5",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x5009ce5625fe97f457ade225b449be00b580afa23de91ebb83b5eede122fb486",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 16352546136,
+    "shooter": "0x595E0B6150bb915E9242959DdD1B7Def5C776F8e",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x50978670f2defc19d656b4defc09abe7a94baab0b2e378f857adc29c9683ffa2",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 16282546136,
+    "shooter": "0x2D80D95Eb9A9a897405857E456C21e56834b6CeE",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa87539d7a1aed7ae19f8cd6174c9fb886d88f76b93b6964a302c3cc67cd8e792",
+    "block_number": 17518743,
+    "gas_used": 73618,
+    "gas_price": 16252546136,
+    "shooter": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa3aad8383779841841f4f1064a66fb93b159807109c8f4d7044d52cae7b6432e",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 16252546136,
+    "shooter": "0xfb7876f0A0909351eBb1e1526C147E60EcedBee5",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x843972c0cf0a9234181c7c8512b546314f7bf93e23ec8cb9c27241ec740766aa",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 16252546136,
+    "shooter": "0xE1659677407841AD85d7592bf8e06fd35dF7a7D1",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x26fa9d68965263adf49d09f320624f50998a8d42cc8f37dc68c47a300333dfe8",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 16252546136,
+    "shooter": "0x74e0E875a386907a2a4FB9cE082aC57CA6a26514",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x15cc6aa344bde80b55af09949f1c0ea2cfd119107daeaf9f066c701a22bfdbc2",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 16252546136,
+    "shooter": "0xD0Cd2A448901b1Ee37dD8Cd7792942789b3622e6",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x92c48de803ce34f6b2d79148f21b5f2693adda3b229b6035bac5f178d8de07b9",
+    "block_number": 17518743,
+    "gas_used": 47289,
+    "gas_price": 16152546136,
+    "shooter": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xba854efcd6387f187b3b323b4fbf6f69ebff81d85d5f3cb9ddafdb95d5bdc489",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 16152546136,
+    "shooter": "0x03bE29b7e299A54E9bCad6a8E724D14575a63a5F",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x48bf0ada968038a59dcb2eaaf74758174b9112d71bf5f207c73bcf6b7cda42b0",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15952546136,
+    "shooter": "0x61f6DF1082161aeCd5EA8EFd5eAd8A78c4CA1768",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x40f6e2f8321da8d1ebd63387ca6d60b9ed743d716d1231b2d55d776a42fdb90b",
+    "block_number": 17518743,
+    "gas_used": 74234,
+    "gas_price": 15910886636,
+    "shooter": "0x5f65f7b609678448494De4C87521CdF6cEf1e932",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x4786bd2a167127a6ce210ec84dc9caa335e00fd23394584c8bb63fa485edd62a",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15904419161,
+    "shooter": "0xE22880e78d9c7cc129291b3ab847F2D1739810c6",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x2b6968181406a29f829c3dc04677bc9126c8a12d100e3b9f1934b854f8cc4ccc",
+    "block_number": 17518743,
+    "gas_used": 62618,
+    "gas_price": 15904419161,
+    "shooter": "0xaBEA9132b05A70803a4E85094fD0e1800777fBEF",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x57fcce8bd910f9ab1c53de51416654e0c1730966af419ffd35746460d7d52a27",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15750000000,
+    "shooter": "0x1cf367C519124dEA510Cb427336365D667a8a0C6",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa98f59088ba1bc6318137a8ea9b714b11084e45dd5f0792b7a5e533985507c5b",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15750000000,
+    "shooter": "0xa994bD50D7120C28A03154Ab2f3bEfA4f9314a67",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x3b4a62f05cdc36558deb78e0ecdb3370ac78b031b1dd325f6bbab3c960ad4c24",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 16800000000,
+    "shooter": "0xa994bD50D7120C28A03154Ab2f3bEfA4f9314a67",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x16abf6243cad7893f662bec1a954e6fa846bbab1335e9ea6c6414549a42d648e",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 24150000000,
+    "shooter": "0xa994bD50D7120C28A03154Ab2f3bEfA4f9314a67",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x1e6207284401052106264f157b05ba1cc4d29edc66b8c241e4045a91d6df5b74",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 26250000000,
+    "shooter": "0xa994bD50D7120C28A03154Ab2f3bEfA4f9314a67",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x65f87503a8ff1bfac2c2bcf68df01ce5ae144184ee89340c39e6f95e4ee178a3",
+    "block_number": 17518743,
+    "gas_used": 84205,
+    "gas_price": 15750000000,
+    "shooter": "0xE7667Cb1cd8FE89AA38d7F20DCC50ee262cC9D12",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x8ce798e5f4cbfce6af87fcfb13909900b1f9fb47b81372b4dd72f760dfadc624",
+    "block_number": 17518743,
+    "gas_used": 84205,
+    "gas_price": 18900000000,
+    "shooter": "0xE7667Cb1cd8FE89AA38d7F20DCC50ee262cC9D12",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xda912dfd44fcc45b74332f961bfe041c31b1c0f4bdafee92d4e7e99ae0151d7f",
+    "block_number": 17518743,
+    "gas_used": 84205,
+    "gas_price": 25200000000,
+    "shooter": "0xE7667Cb1cd8FE89AA38d7F20DCC50ee262cC9D12",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xbb87f386b307e91b83796c1a76685e14c6bcb89fbc09204c3d5c41c3b6b07750",
+    "block_number": 17518743,
+    "gas_used": 47201,
+    "gas_price": 15714546136,
+    "shooter": "0x5966c6459aCdc8280d5F30A7D5361Daa8aC06CA6",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x5716cb984e6b4c03d2ba091b0d759eb88c876b68b997f434736a4069001be9cc",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15560546136,
+    "shooter": "0x5Bc996b7A08FF481Fdcf793e3fd9569994dD3702",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xf1acad0ff1c4dbf5c535231ea35c868ed6dcbe253402a969071b3c7e0099e86a",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15552546136,
+    "shooter": "0xBe21DF66356570F2f0C0AE8550Fb5B1eFf2cf010",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb0e2f4de8f2d9eebef0c645e96897d1e4eee50515c2c0cc8b1758790dcfbbbc0",
+    "block_number": 17518743,
+    "gas_used": 217064,
+    "gas_price": 15552546136,
+    "shooter": "0x881D40237659C251811CEC9c364ef91dC08D300C",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x13634e75b94550880a2a3de3ac66d383acaa49d96314371ae91f8727352fa24b",
+    "block_number": 17518743,
+    "gas_used": 46121,
+    "gas_price": 15540000000,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x212a29e96b6d81f9c91d2e0ddb64fc812e754ba16b0a003b26e66aafba91ba11",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15540000000,
+    "shooter": "0x077D360f11D220E4d5D831430c81C26c9be7C4A4",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x236617a3a63f442ce07f05a6eb273ced8079b0055777dc28b4fb963176742b0d",
+    "block_number": 17518743,
+    "gas_used": 63221,
+    "gas_price": 15500000000,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xdd0cc03a97c2e0883c19557899ae0b340d47ae9ad2857e016f3c00c6b76a0d89",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15472546136,
+    "shooter": "0x9467da479D57e8CDef0F661db795BE83ebaf485d",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xd65d511ee95f7de3903bd4f585f3766ea7ba6cd5cd87ae3b49ed32a089e5cf33",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15992546136,
+    "shooter": "0x9467da479D57e8CDef0F661db795BE83ebaf485d",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x6e2899ed1439b5f730de128cc073369f3995e4bd7574c9806fd96c8ddd1e689c",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 17632546136,
+    "shooter": "0x9467da479D57e8CDef0F661db795BE83ebaf485d",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xc80ac1f3e5170094d6b7b1a95bb5512ddb04ac1e864410fe23abbc2c14775ee5",
+    "block_number": 17518743,
+    "gas_used": 214621,
+    "gas_price": 15436883283,
+    "shooter": "0xBE6FEe3756f7BE3A0cD492059341cb5b77dD81F9",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xfe585ab4fdbe6c61b07cf2cf7567b0be411c9b117b82c38b156906b20b0a475a",
+    "block_number": 17518743,
+    "gas_used": 46109,
+    "gas_price": 15382546136,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x986229dc5e4e141756b940ceeb3fc5b637fc0693deecb81c226973881b2f8842",
+    "block_number": 17518743,
+    "gas_used": 41309,
+    "gas_price": 15382546136,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xfe0529c043206596b5203cb31a407f276a2a02814900aca25b2d07a617bc2f27",
+    "block_number": 17518743,
+    "gas_used": 123045,
+    "gas_price": 15352546136,
+    "shooter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xf667af20557cffe434d205f46d741c89a1ef80d6ce9a53e3215069bc2eea2828",
+    "block_number": 17518743,
+    "gas_used": 35200,
+    "gas_price": 15352546136,
+    "shooter": "0xA2113f1E9A66c3B0A75BB466bbBfeEeC987ac92e",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa0bd096e6cc3fc77b451e741c481db70c33ecf795dd61d9e94ff306195d11595",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15352546136,
+    "shooter": "0x9e87259074B6CE483b80D8A53f5533Fbc4434694",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x574d3e7ae2fe60908356e7e2d1dc5d4a021d1998f59bb120a92ad117da5288d5",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15352546136,
+    "shooter": "0x27f1f94C223Da773296dD27d0Bb9E122C87793F3",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x60b1a7db57a56839abdc7917a44beac47589f7bca274e045f5d841c4d719ab65",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15352546136,
+    "shooter": "0x3a0a78A0D10e6097B7BF0C68567fAd0DE2996f42",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb24886a39840b8824f60b17cda826e3039a03ffb2157bc479730183df0996606",
+    "block_number": 17518743,
+    "gas_used": 175527,
+    "gas_price": 15352546136,
+    "shooter": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x635b8acad915f402eb228fbc58b75fea675d7fcbb90f686132ded0c4d23f97b2",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x27634852F94fA7E7807643a736d78EcCc9D66F13",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x29f4419797fd518f9e8e2ba46b87b1248dbc6bb539f2b7caad517e291acd49b5",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x1b5A5Aa8ca1B3f4d55ccAAb0eADab56C52d0374d",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x1becb63df285c0a915dae0f0bb2b09f9b0513d9de57ad8636cb7d2c76b2a3f82",
+    "block_number": 17518743,
+    "gas_used": 48573,
+    "gas_price": 15352546136,
+    "shooter": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa74ef949634ca6f564a80c8bc8ac0801fc08783a1da98fefa1c95d4e207c23db",
+    "block_number": 17518743,
+    "gas_used": 51417,
+    "gas_price": 15352546136,
+    "shooter": "0x9811d23c8AB7a3d3A91AE4BE685b54fbcB314995",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x560bc36885d703d2e3d564c406f75ddcb6f9c6fcd946fe3a33305075109b53cf",
+    "block_number": 17518743,
+    "gas_used": 118066,
+    "gas_price": 15352546136,
+    "shooter": "0x32400084C286CF3E17e7B677ea9583e60a000324",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xd577cf81237949827a8f0320855a504b2883e68d7954a1553d54a62d7227162e",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0xbf277A67Adc411B86553410b5Ae0Dc5DF1027F01",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x722336cbcedd03399af561cf0bf80d9e36cc205cd3c6e1942571ae75e3c20f10",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x27634852F94fA7E7807643a736d78EcCc9D66F13",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa6b8221595e25c0089e3e98aa581dc890bc31cb773e4545d6ef4fd038ae258ab",
+    "block_number": 17518743,
+    "gas_used": 22120,
+    "gas_price": 15352546136,
+    "shooter": "0x37301E3b7Cdcc834DE7977D3a2cd219921595Ab5",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xaf1512b93b5763092d155f0768198affc8ce1f9938d5f98e9f894a61dc3b3c17",
+    "block_number": 17518743,
+    "gas_used": 163354,
+    "gas_price": 15352546136,
+    "shooter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x6ad6c29c73e2f7a098fd65bf7387b86e344cb7d6394d986bb03a76fc39bfc038",
+    "block_number": 17518743,
+    "gas_used": 56777,
+    "gas_price": 15352546136,
+    "shooter": "0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x6032f4047f65664999e18ab44a2508aeb3aa82f17e767b07bb086307154127a1",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15352546136,
+    "shooter": "0x33256635B7d200Dc0a1dE51c9089D93C44A5A55a",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x12725e1a8614f059bf69b55f1e6ec1baf4efe0e6f7be6e38d63e9afb48804f38",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15352546136,
+    "shooter": "0x5B23a31f4F7DaDBf2e90aeE70E2B59ca1d85A2D9",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xdbc4ad37f552eb33adbc85e2c730094162f80854c72371eaf1a67cdf90bf2dfd",
+    "block_number": 17518743,
+    "gas_used": 116404,
+    "gas_price": 15352546136,
+    "shooter": "0x37D7f26405103C9Bc9D8F9352Cf32C5b655CBe02",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xf6731909a3036e8094df7c1b504a8b99957e630a13d97181349c1eb0a944ef42",
+    "block_number": 17518743,
+    "gas_used": 44206,
+    "gas_price": 15352546136,
+    "shooter": "0x253553366Da8546fC250F225fe3d25d0C782303b",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x1d88e88196490b8f0c7c911413f31f840f556427277f75f63c9d3d5f163bdc32",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x6dA0CC2AfC427A0a621B0F2aE5658b09476f99c5",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x02f5034abbe712e3360067c5725857ebf73c429ce7db55659fb846453de99626",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x3a9A8DEDA9b104073B66Ca0Cac419DADc31618B8",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xf24793c59ab0639d5a1cce4c2e22d657276960f941b4abc9df30289501b11b9a",
+    "block_number": 17518743,
+    "gas_used": 84205,
+    "gas_price": 15352546136,
+    "shooter": "0xE7667Cb1cd8FE89AA38d7F20DCC50ee262cC9D12",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x93d67d61789f7e096b0dc7048ec925abffc51c3a0104ae203bf76ce5d7856d06",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x35B6dD7bD9f73202eC57615a8Eb97d118dBe7A3b",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xba1d279424b6a6d37533d4b77a118dc7ff309ae68449e1c78088f082d9d3a45d",
+    "block_number": 17518743,
+    "gas_used": 125836,
+    "gas_price": 15352546136,
+    "shooter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x8dc2ea07f4307ca44820552ebe630214b7103fd2614b034bf48e684e35b36d1b",
+    "block_number": 17518743,
+    "gas_used": 49356,
+    "gas_price": 15352546136,
+    "shooter": "0x282F1FA0bfB5F87d257c2687a97E6442F9eFDfC1",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x693843adbfd0909ca68361e7e4a74ab3df4d40a0e04e4f76c333b7ee071c9a0c",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x7b56573523F75AB0A9E89f13d369b105a6F40E06",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x89ae5830d0a60cf70a4ff9c6a81e87db4b176f135ac9d4ac4b4d082f261d0f59",
+    "block_number": 17518743,
+    "gas_used": 118042,
+    "gas_price": 15352546136,
+    "shooter": "0x32400084C286CF3E17e7B677ea9583e60a000324",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xb967633e6768bed06ed427855a6baa30129bc8c600ff001639893f552c48a0f7",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15352546136,
+    "shooter": "0x4270218B199F9F3986A3693a615Efd27c1b28018",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xf0bd845ed9eb2a9978f69119ee382ccaa8c41f7e06623ee50fd068f6f35bb177",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15352546136,
+    "shooter": "0x6814908fFe738c3F729385d38621e8933832Ce8B",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xd0cd3a5d6154d078aa84fb0b99ff6ecc9e56e265378629073a735c0b895056ab",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x56219482257A5D76F7a031AaD357966018Af1312",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x94db496c9cefc86a0798d2b0f02e197e595f9f4c3e6ca65cde9281fe00f30156",
+    "block_number": 17518743,
+    "gas_used": 166978,
+    "gas_price": 15352546136,
+    "shooter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xbd4956eeb7b4168bca0dd05b9d42e4830cc8b5496856bce909c06c6c65a658b8",
+    "block_number": 17518743,
+    "gas_used": 46316,
+    "gas_price": 15352546136,
+    "shooter": "0x7D8146cf21e8D7cbe46054e01588207b51198729",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x3293f36a8714ddeff472b5116300f46cd68e9192a907a0233075f46e7350ab67",
+    "block_number": 17518743,
+    "gas_used": 156589,
+    "gas_price": 15352546136,
+    "shooter": "0x717C6dD66Be92E979001aee2eE169aAA8D6D4361",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xe4ba0cb1d38cef9e8fda4f7d2e156b2a3c16090db41f47f64b9e186b864fa501",
+    "block_number": 17518743,
+    "gas_used": 157933,
+    "gas_price": 15352546136,
+    "shooter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x47f35f46bbdbb9c0f06c25407f5187be2fc83466fec3ee2be7d353c54f1c8779",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x27634852F94fA7E7807643a736d78EcCc9D66F13",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x8db4de6263d4395223994022638d0f3dfbddd7c0b21f4992c54148eac35170fd",
+    "block_number": 17518743,
+    "gas_used": 155335,
+    "gas_price": 15352546136,
+    "shooter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xde367cd301e47d95ce77aef8cf9383a0c90490a76e496edc94b7b282d5461385",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x27634852F94fA7E7807643a736d78EcCc9D66F13",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x8a50000c7e39af3a53d9adfd057ee5c7fe277ea113c4b48a2e9bb3b39385f41b",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0xb1961252eC6CbB0BcDDE58a28f41A5947A365662",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xefecb91f1f1616000c5534cc82493e72715710808dd86136d961dd09d7ffebeb",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15352546136,
+    "shooter": "0xa73e5AfA2f93b98c96e55457be7A62bE8E2D1143",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xf2917ed0887cf57f067777d14b653ce83f075be688bb30217fd7573f9ebc02e8",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x27634852F94fA7E7807643a736d78EcCc9D66F13",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x364e35cb6598ef26737bc9b9c7a6e1953066317eec734b99094b8dbbb38e6cc6",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x901c8A8c50328e24341dD9Fd1b260E0F3650C89C",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x08e4629c56b8c2afc9b4ba6d46ce39be48c7fca1663ba96b74c74e1dd4683f0f",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15352546136,
+    "shooter": "0x67381452bd008D400834Bb5be6279005Da0Cd4C7",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x5b789d3f53eb6f69d302ffc59ffcca8ed3542ae54ffd60db1b715bd8ce174a48",
+    "block_number": 17518743,
+    "gas_used": 118714,
+    "gas_price": 15352546136,
+    "shooter": "0xE7667Cb1cd8FE89AA38d7F20DCC50ee262cC9D12",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xd6037e5f1ef7d7a6aca2e2dc17c8a7d163a5205f28e4918aed22d56a255fc8bc",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15352546136,
+    "shooter": "0x18Bd23E73CAD6d6195971F806Ec5F70EA48f7203",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x3a92af53e674bed25f49d0a9d4fd80b067171fcd57c49e25af3770c38a58b62f",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15352546136,
+    "shooter": "0x4a083475Fd0BfB1eBB05d03D29794bc64696F3AF",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xaf73748220881ed084fe7cec2c3ac183eaf1659a331bec0455cd37abe596f52f",
+    "block_number": 17518743,
+    "gas_used": 278315,
+    "gas_price": 15352546136,
+    "shooter": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x5410bf5838cb22b68c277c5a11d3dc8837320faedacfbd6f84f7fe2acd75a1ee",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15352546136,
+    "shooter": "0xecF744a8c50f0263c95B63B40c0f5e220929f5e9",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xcfb342131e51abc521808d1020c281ab62646f9d47192a47a831e7eed9410a7b",
+    "block_number": 17518743,
+    "gas_used": 22136,
+    "gas_price": 15352546136,
+    "shooter": "0xF47db621881B7cefe8b8A954C762AAA3D871ac7b",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x7ef6877cc1924d477773f600b8e87420f487c267f691cec4fbb501742f549ee2",
+    "block_number": 17518743,
+    "gas_used": 118405,
+    "gas_price": 15352546136,
+    "shooter": "0xE7667Cb1cd8FE89AA38d7F20DCC50ee262cC9D12",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa09e8f42d01603d11850963675d19cdcab00c243844b3119f9aa1b7d2c76752c",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15352546136,
+    "shooter": "0xFaedaB60Dc2ea172285ff24F944d6FA9d2F8e4b4",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xfec133d7d03f5ad79cc7bc3b25585000943620863b98999b237545ab3e5c15f2",
+    "block_number": 17518743,
+    "gas_used": 118714,
+    "gas_price": 15352546136,
+    "shooter": "0xE7667Cb1cd8FE89AA38d7F20DCC50ee262cC9D12",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa3c5b161600bbd362c7fddbd8233cc313243e4cee93638ad64859022c6659128",
+    "block_number": 17518743,
+    "gas_used": 144201,
+    "gas_price": 15352546136,
+    "shooter": "0x3Ed1fD10e1B43b5de9175907E36C45a3Ac7d279a",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x9336d4cea9483fe7d6abc2875efad3c2f58fb441bad2ebffb9208cf1221be7de",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x3a9A8DEDA9b104073B66Ca0Cac419DADc31618B8",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x8380f727b3732a19ae03d3f31de09cf87bf86ccd0f497a70285e36eaf0322125",
+    "block_number": 17518743,
+    "gas_used": 22152,
+    "gas_price": 15352546136,
+    "shooter": "0x8F1467e8F5a67B697843B6b700ae8337E549396F",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x5041b792d33d77ab5d3444f4b25d17f764410ac32653d1ee0d10142b315c0e4c",
+    "block_number": 17518743,
+    "gas_used": 211709,
+    "gas_price": 15346546136,
+    "shooter": "0x00000000000076A84feF008CDAbe6409d2FE638B",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x6f01807327ff6496fcc9615642a8d1cd536ba992b18a4da3b162d91ed7d092ce",
+    "block_number": 17518743,
+    "gas_used": 51045,
+    "gas_price": 15346546136,
+    "shooter": "0x21D3A7B067BD206BB5153ebCe8431E0CD1b668E2",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0x368e7a0fb12bed2fcbdf131a86b0486c8d3c556dd9fbbe068f40a29862f5a790",
+    "block_number": 17518743,
+    "gas_used": 44088,
+    "gas_price": 15346546136,
+    "shooter": "0xFf00000000000000000000000000000000008453",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xc25e0995cd3d716a7a1f1020c53d115079cbe26b06ae1d8e61e06a776bb7d0ee",
+    "block_number": 17518743,
+    "gas_used": 23432,
+    "gas_price": 15322996657,
+    "shooter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "n_cycles": 2
+  },
+  {
+    "txn_hash": "0xa8abab499042066ae741558a2643571e59da5bafc6aa5148d92741fb96c936b5",
+    "block_number": 17518743,
+    "gas_used": 21000,
+    "gas_price": 15292644628,
+    "shooter": "0xa442D20f92229D3026921095cd1b29a8d0a5A08d",
+    "n_cycles": 2
+  }
+]

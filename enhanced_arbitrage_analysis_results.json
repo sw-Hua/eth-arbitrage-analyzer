@@ -1,0 +1,73 @@
+{
+  "arbitrage_count": 8,
+  "miner_revenue": 24431865433053519,
+  "dex_usage": {},
+  "path_length_stats": {
+    "mean": 3.0,
+    "max": 3,
+    "min": 3
+  },
+  "token_profits": {
+    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": 4.363668294601897e+21,
+    "0x5283D291DBCF85356A21bA090E6db59121208b44": -3.8991727321816477e+21,
+    "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": 8.781203599323606e+24,
+    "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374": -4.7028203412357866e+24,
+    "0x511686014F39F487E5CDd5C37B4b37606B795ae3": -4.07300173079209e+24,
+    "0xbC396689893D065F41bc2C6EcbeE5e0085233447": -3.2318170301610024e+21,
+    "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D": -2.1497102655684338e+21,
+    "0x1936C91190E901B7dD55229A574AE22B58Ff498a": 0.0,
+    "0x14e7E4F8dbfD8AA9856e45352Aa872ea42929B29": 0.0,
+    "0x3352eB2fEbcA75E40aB8B028701473E2D7DE680A": 0.0,
+    "0xA13a9247ea42D743238089903570127DdA72fE44": -4.644955624202495e+20
+  },
+  "profit_takers": {
+    "0x76F36d497b51e48A288f03b4C1d7461e92247d5e": 3232594787303424.0
+  },
+  "detailed_arbitrage_paths": [
+    {
+      "transaction_hash": "0xb615b9abfb1540fd0c058f61f528bb9d0a786e5c5564b15be7ca474396b48989",
+      "block_number": 17518743,
+      "profit_taker": "0x76F36d497b51e48A288f03b4C1d7461e92247d5e",
+      "path_length": 3,
+      "total_profit": 3232594787303424.0,
+      "profit_token": "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374",
+      "profit_token_symbol": "FINALE",
+      "profit_amount": 8.775822075260472e+24,
+      "steps": [
+        {
+          "from_token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "from_token_symbol": "WETH",
+          "to_token": "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374",
+          "to_token_symbol": "FINALE",
+          "exchange": "0x4a6670b0afb21b2770541c4c9bd678323f7d84c4",
+          "dex_name": "0x4a6670...",
+          "in_amount": 8.588683038866112e+16,
+          "out_amount": 8.775822161147302e+24,
+          "profit": 8.775822075260472e+24
+        },
+        {
+          "from_token": "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374",
+          "from_token_symbol": "FINALE",
+          "to_token": "0x511686014F39F487E5CDd5C37B4b37606B795ae3",
+          "to_token_symbol": "LOYAL",
+          "exchange": "0x7426274e92478c7ba306a48b46a6fbefce6c7099",
+          "dex_name": "0x742627...",
+          "in_amount": 8.775822161147302e+24,
+          "out_amount": 4.0730018199115153e+24,
+          "profit": -4.7028203412357866e+24
+        },
+        {
+          "from_token": "0x511686014F39F487E5CDd5C37B4b37606B795ae3",
+          "from_token_symbol": "LOYAL",
+          "to_token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "to_token_symbol": "WETH",
+          "exchange": "0xac63436b092b944cadea9243f9aff315421d4fee",
+          "dex_name": "0xac6343...",
+          "in_amount": 4.0730018199115153e+24,
+          "out_amount": 8.911942539831974e+16,
+          "profit": -4.07300173079209e+24
+        }
+      ]
+    }
+  ]
+}

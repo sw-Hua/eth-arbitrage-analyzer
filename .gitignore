@@ -28,5 +28,11 @@ Thumbs.db
 # Output files
 output/
 *.png
-*.json
-*.txt 
+*.txt
+
+# Keep important JSON files
+!enhanced_arbitrage_analysis_results.json
+!arbitrage_analysis_results.json
+!potential_exchanges.json
+!potential_exchanges2.json
+!block_17518743_*.json 
