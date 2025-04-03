@@ -3,7 +3,7 @@ ETH Arbitrage Analyzer
 
 本项目旨在从以太坊链上真实交易（以区块 #17518743 为例）中，识别潜在套利路径，分析 MEV 收益结构，并实现可视化呈现。
 
-🔍 功能亮点
+功能亮点
 路径图自动构建：从 ERC-20 日志中提取资金流向，构建 Token → Token 有向图。
 
 潜在 DEX 识别：通过 in/out Token 分析判断地址是否为交换节点，支持 DEX 路由识别。
@@ -53,6 +53,6 @@ test_*.py：每个功能单元的验证脚本
 enhanced_arbitrage_analysis.py：一键运行主程序，生成 JSON + 可视化结果
 
 参考文献
-A Large-Scale Study of the Ethereum Arbitrage Ecosystem 
-goldphish: https://github.com/ucsb-seclab/goldphish
+A Large-Scale Study of the Ethereum Arbitrage Ecosystem； 
+goldphish: https://github.com/ucsb-seclab/goldphish；
 MEV Explore 实际链上验证
